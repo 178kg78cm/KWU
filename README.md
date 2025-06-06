@@ -1,5 +1,5 @@
 # KWU
-## .
+## 약력
 - **광운대학교 컴퓨터정보공학부 지능정보공학 전공**
 - **군 복무**: 제32사단 병장 만기 전역 (2020.05.12 ~ 2021.11.15)
 - **알락달락 KT 코딩교육 봉사** (2019.03 ~ 2019.08)
@@ -10,13 +10,34 @@
   - 21회 임베디드 SW 경진대회 산학 부문 우수상 (2023.12.08)
 - **LGAimers 5기 참가** (2024.07 ~ 2024.08)
   - 자동차 디스플레이 공정 데이터 기반 AI 모델 학습 프로젝트
-- **드론 탐지 시스템 개발 (2024)**
+- **드론 탐지 시스템 개발** (2024.01 ~ 2024.07)
   - YOLOv8 + SAHI 기반 객체 탐지 및 타임라인 기록
   - [GitHub Repository](https://github.com/178kg78cm/KWIAC-DroneDetectionSolution)
-- **PVDF 수면 자세 분류 논문 발표**
+- **PVDF 수면 자세 분류 논문 발표** (2024.01 ~ 2024.11)
   - 대한의용생체공학회 2024 추계학술대회 우수 포스터 논문상 수상
   - CNN model-based sleep posture classification using PVDF sensor
+- **현대오토에버 모빌리티 임베디드 SW 스쿨 수료** (2024.12 ~ 2025.06)
+---
 
+##  교육 이수 사항
+
+### 현대오토에버 모빌리티 임베디드 SW 스쿨 수료
+현대오토에버와 한국전파진흥협회가 주관하는 K-디지털 트레이닝 과정에 참여하여, 총 1000시간의 임베디드 SW 집중 교육을 이수하였습니다.
+
+### 1. 기본 역량 강화
+- 임베디드 시스템 기초: C 프로그래밍, 자료구조, RTOS, MCU 아키텍처 이해
+- 차량 네트워크: CAN 프로토콜 설계, CANoe/CANalyzer 실습, DBC 파일 관리
+
+### 2. 심화 기술 및 실무
+- 차량용 Ethernet 기술: 100BASE-T1, 10BASE-T1S, SOME/IP, DoIP 실습
+- AUTOSAR 아키텍처: BSW, RTE, SWC 구성 및 실시간 태스크 관리
+- 기능안전/품질: Automotive SPICE, V-model, ISO 26262(HARA, ASIL 등급 분석)
+
+### 3. 실습 중심 프로젝트
+- PID 기반 속도 제어 시스템: STM32, Simulink 기반 제어기 설계 및 테스트
+- 차량 통신 시스템 설계: Zonal/Domain 아키텍처 기반 CAN/Ethernet 통신망 구축
+- 실시간 제어 시스템: TC275 및 Arduino 기반 제어 알고리즘 구현
+- OTA 및 원격 진단 시스템: 차량 내 소프트웨어 업데이트 및 진단 프로토콜 설계
 
 ---
 
@@ -114,6 +135,8 @@
 - [드론 탐지 프로젝트](https://github.com/178kg78cm/KWIAC-DroneDetectionSolution)
 - [기타 실습 및 실험 저장소](https://github.com/lkhyun/KWU?tab=readme-ov-file)
 - [객체 추적 프로젝트](https://github.com/lkhyun/Object-Tracking-Detection)
+- [iGRAURD](https://github.com/Embedded-3/iGuard)
+
 
 ---
 - Email: [jhh7550@gmail.com]
