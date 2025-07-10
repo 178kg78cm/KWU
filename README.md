@@ -1,4 +1,8 @@
 # KWU
+**신뢰받는 임베디드 개발자가 되겠습니다.**
+
+저는 어떤 일을 해야 할지 스스로 많은 고민을 해왔습니다. 한때 웹개발 열풍에 따라 웹개발 공부를 했으나 흥미를 느끼지 못하고, 저에게 맞는 분야를 찾고자 다양한 외부 활동을 수행하였습니다.. 그 과정에서 학과 내 헬스케어 AI 연구실에서 학부 연구생으로 활동하며 센서 데이터 활용에 대해서 관심을 가지게 되고 임베디드 개발자로서의 진로를 확고히 하게되었습니다.
+
 ## 약력
 - **광운대학교 컴퓨터정보공학부 지능정보공학 전공**
 - **군 복무**: 제32사단 병장 만기 전역 (2020.05.12 ~ 2021.11.15)
@@ -19,6 +23,17 @@
 - **현대오토에버 모빌리티 임베디드 SW 스쿨 수료** (2024.12 ~ 2025.06)
 ---
 
+## 수상
+
+| 연도 | 내용 |
+|------|------|
+| 2023.12 | 제21회 임베디드 SW 경진대회 산학부문 우수상 |
+| 2024.11 | 대한의용생체공학회 추계학술대회 우수논문상 |
+| 2024.08 | LG Aimers 5기 수료 |
+| 2025.07 | 현대 오토에버 임베디드 스쿨 최우수 프로젝트 |
+
+---
+
 ##  교육 이수 사항
 
 ### 현대오토에버 모빌리티 임베디드 SW 스쿨 수료
@@ -37,11 +52,18 @@
 - PID 기반 속도 제어 시스템: STM32, Simulink 기반 제어기 설계 및 테스트
 - 차량 통신 시스템 설계: Zonal/Domain 아키텍처 기반 CAN/Ethernet 통신망 구축
 - 실시간 제어 시스템: TC275 및 Arduino 기반 제어 알고리즘 구현
-- OTA 및 원격 진단 시스템: 차량 내 소프트웨어 업데이트 및 진단 프로토콜 설계
+- FOTA : TC275 메모리에 직접 접근하여 CAN 통신으로 펌웨어 원격 업데이트트
 
+### 프로젝트
+1. iGuard
+  - [프로젝트 코드](https://github.com/Embedded-3/iGuard)
+2. Simulink 모델링을 통한 Smart Cruise Control
+  - [프로젝트 코드](https://github.com/Embedded-3/Project2)
+3. Zonal Architecture 기반의 차량 조향 시스템
+  - [프로젝트 코드](https://github.com/Embedded-3/Project3)
 ---
 
-## 주요 프로젝트
+## 학부 주요 프로젝트
 
 ### 1. PVDF 센서 기반 수면 자세 분류
 > CNN 기반 모델로 수면 중 자세 분류
@@ -111,32 +133,21 @@
   - 시스템 콜 Hooking, Scheduling 개선, Memory 구조 분석
 - `수치해석 / 인공지능`
   - Bisection Method, PCA, LDA, Image Interpolation
+- `컴퓨터 네트워크`
 
 ### 4학년
 - `소프트웨어 공학`
   - 주식 토론 게시판 및 거래 시스템 개발
 - `머신러닝`
   - Naïve Bayes, GMM, KMeans, ResNet(CIFAR10) 구현
----
-
-## 수상
-
-| 연도 | 내용 |
-|------|------|
-| 2023.12 | 제21회 임베디드 SW 경진대회 산학부문 우수상 |
-| 2024.11 | 대한의용생체공학회 추계학술대회 우수논문상 |
-| 2024.08 | LG Aimers 5기 수료 |
 
 ---
 
 ## 참고 링크
-
 - [PVDF 자세 분류 논문 요약](https://github.com/lkhyun/FSR-Sleep-Posture-Classification)
 - [드론 탐지 프로젝트](https://github.com/178kg78cm/KWIAC-DroneDetectionSolution)
-- [기타 실습 및 실험 저장소](https://github.com/lkhyun/KWU?tab=readme-ov-file)
 - [객체 추적 프로젝트](https://github.com/lkhyun/Object-Tracking-Detection)
 - [iGRAURD](https://github.com/Embedded-3/iGuard)
-
 
 ---
 - Email: [jhh7550@gmail.com]
